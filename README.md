@@ -260,24 +260,4 @@ git push origin feature/your-feature
 
 ---
 
-## 📄 License
 
-MIT License — feel free to use this for personal or commercial projects.
-
----
-
-## 👨‍💻 Author
-
-**Devesh**
-
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?style=flat&logo=github)](https://github.com/yourusername)
-
----
-
-<div align="center">
-
-**⭐ Star this repo if PrepAI helped you!**
-
-[🚀 Try PrepAI Live](https://prep-ai-two-liart.vercel.app/)
-
-</div>
